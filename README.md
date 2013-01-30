@@ -1,4 +1,4 @@
-berkshelf-cookbook
+wercker-postgresql-cookbook
 ================
 
 
